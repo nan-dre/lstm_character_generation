@@ -8,6 +8,8 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 from tensorflow import config
 
+import tensorflow as tf
+
 def generate():
     gpus = config.experimental.list_physical_devices('GPU')
     for gpu in gpus:
@@ -21,9 +23,14 @@ def generate():
         probas = np.random.multinomial(1, preds, 1)
         return np.argmax(probas)
 
-    path = './manele.json'
-    filepath = "model-15-0.7753.h5"
-    model = load_model(filepath)
+    #path = './manele.json'
+    path = tf.keras.utils.get_file(
+        "manele.json", origin="https://raw.githubusercontent.com/nan-dre/lstm_character_generation/main/manele.json"
+    )
+    model_path = tf.keras.utils.get_file( 
+        "model-latest.h5", origin="https://raw.githubusercontent.com/nan-dre/lstm_character_generation/main/model-latest.h5"
+    )
+    model = load_model(model_path)
 
 
     text = []
