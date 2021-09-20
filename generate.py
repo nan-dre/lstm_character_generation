@@ -25,7 +25,7 @@ def generate():
 
     #path = './manele.json'
     path = tf.keras.utils.get_file(
-        "manele.json", origin="https://raw.githubusercontent.com/nan-dre/lstm_character_generation/main/manele.json"
+        "manele.json", origin="https://raw.githubusercontent.com/nan-dre/lstm_character_generation/main/data/manele-merged.json"
     )
     model_path = tf.keras.utils.get_file( 
         "model-latest.h5", origin="https://raw.githubusercontent.com/nan-dre/lstm_character_generation/main/models/model-latest.h5"
