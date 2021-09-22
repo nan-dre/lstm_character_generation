@@ -4,8 +4,30 @@ import numpy as np
 import re
 from keras.models import load_model
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
+def download_model_file():
+    from google.cloud import storage
+    BUCKET_NAME        = "lstm_word_model"
+    PROJECT_ID         = "hallowed-pager-326510"
+    GCS_MODEL_FILE     = "saved_model.h5"
+    GCS_VOCABULARY_FILE= "vocabulary.txt"
+
+    # Initialise a client
+    client   = storage.Client(PROJECT_ID)
+    
+    # Create a bucket object for our bucket
+    bucket   = client.get_bucket(BUCKET_NAME)
+    
+    # Create a blob object from the filepath
+    model_blob     = bucket.blob(GCS_MODEL_FILE)
+    vocabulary_blob     = bucket.blob(GCS_VOCABULARY_FILE)
+    
+    folder = '/tmp/'
+    if not os.path.exists(folder):
+      os.makedirs(folder)
+    # Download the file to a destination
+    model_blob.download_to_filename(folder + "saved_model.h5")
+    vocabulary_blob.download_to_filename(folder + "vocabulary.txt")
 
 def validate_seed(vocabulary, seed):
     """Validate that all the words in the seed are part of the vocabulary"""
@@ -32,18 +54,6 @@ def sample(preds, temperature=1.0):
 
 def generate_text(model, indices_word, word_indices, seed,
                   sequence_length, diversity, quantity):
-    """
-    Similar to lstm_train::on_epoch_end
-    Used to generate text using a trained model
-
-    :param model: the trained Keras model (with model.load)
-    :param indices_word: a dictionary pointing to the words
-    :param seed: a string to be used as seed (already validated and padded)
-    :param sequence_length: how many words are given to the model to generate
-    :param diversity: is the "temperature" of the sample function (usually between 0.1 and 2)
-    :param quantity: quantity of words to generate
-    :return: Nothing, for now only writes the text to console
-    """
     sentence = seed.split(" ")
     text = ""
 
@@ -69,12 +79,13 @@ def main(request=None):
         seed = request.get_json()['seed']
     except:
         seed = "orice s-ar intampla doar tu esti viata mea"
-    vocabulary_file = "vocabulary.txt"
-    model_file = "model"
+    vocabulary_file = "/tmp/vocabulary.txt"
+    model_file = "/tmp/saved_model.h5"
     sequence_length = 10
     diversity = 0.5
     quantity = 60
 
+    download_model_file()
     model = load_model(model_file)
     vocabulary = open(vocabulary_file, "r").readlines()
 
