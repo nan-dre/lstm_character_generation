@@ -1,4 +1,3 @@
-from __future__ import print_function
 from keras.callbacks import LambdaCallback, ModelCheckpoint, EarlyStopping
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, LSTM, Bidirectional, Embedding, GRU
