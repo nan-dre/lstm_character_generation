@@ -1,0 +1,39 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ langa tine zi de"
+
+ 
+ langa tine zi de zi 
+ nu te mai pot iubi 
+ 
+ esti cu sufletul meu 
+ 
+ tu esti tot ce am facut 
+ si de ce nu ma mai iubi 
+ 
+ ce am facut si de ce ma mai iubesti 
+ 
+ de ce nu mai vrei sa ma iubesti
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ langa tine zi de"
+
+ 
+ langa tine zi de zi 
+ nu mai pot sa te las 
+ sa te iubesc 
+ nu ma mai iubi cu tine 
+ nici tu esti una la mine 
+ si cand ma dau pe tine 
+ asa ca e viata mea 
+ 
+ si ai plecat si m-ai lasat 
+ 
+ dar
+================================================================================
