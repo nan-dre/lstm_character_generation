@@ -57,6 +57,7 @@ def generate_text(model, indices_word, word_indices, seed,
     sentence = seed.split(" ")
     text = ""
 
+    # Generating minimum lenght
     for i in range(quantity):
         x_pred = np.zeros((1, sequence_length))
         for t, word in enumerate(sentence):
@@ -70,6 +71,21 @@ def generate_text(model, indices_word, word_indices, seed,
         sentence.append(next_word)
 
         text = text + " " + next_word
+    
+    # Generating until reaching newline
+    while next_word != '\n':
+        x_pred = np.zeros((1, sequence_length))
+        for t, word in enumerate(sentence):
+            x_pred[0, t] = word_indices[word]
+        preds = model.predict(x_pred, verbose=0)[0]
+        next_index = sample(preds, diversity)
+        next_word = indices_word[next_index]
+
+        sentence = sentence[1:]
+        sentence.append(next_word)
+
+        text = text + " " + next_word
+
     return text
 
 
