@@ -37,3 +37,2782 @@
  
  dar
 ================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"si ne-am iubit 
+ lumea parca"
+si ne-am iubit 
+ lumea parca sunt om pe lume 
+ si de ce ai plecat 
+ si cand ai plecat 
+ si nu miai spus 
+ nu ma crezi ca ma iubesti 
+ esti iubirea mea, iubirea mea 
+ 
+ tu, tu esti totul pentru mine 
+ 
+ tu ai plecat si ai plecat 
+
+----- Diversity:0.5
+----- Generating with seed:
+"si ne-am iubit 
+ lumea parca"
+si ne-am iubit 
+ lumea parca este rea 
+ care e doar a ta 
+ 
+ hai vino hai vino 
+ da-mi vin ca vreau sa beau 
+ hai vino hai vino 
+ da-mi vin ca vreau sa fiu 
+ hai vino hai vino 
+ da-mi vin ca vreau sa beau 
+ hai vino hai vino
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"
+ sa fii sarac dar plin"
+
+ sa fii sarac dar plin de ea 
+ 
+ lumea este rea lumea este rea 
+ 
+ daca soarta ne va fi 
+ am sa te iubesc 
+ 
+ tu esti femeie de sufletul meu 
+ 
+ de ce te joci cu viata 
+ de ce nu ai sa te scot 
+ stii ca te
+----- Diversity:0.5
+----- Generating with seed:
+"
+ sa fii sarac dar plin"
+
+ sa fii sarac dar plin de dor 
+ 
+ de nu te-as mai pun nici nici o data 
+ nici nu le mai cred 
+ 
+ am sa te iubesc, te iubesc 
+ 
+ mai mult ca tine si tu 
+ daca ai sti ca te iubesc 
+ si din suflet ca am gresit 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ viata mea inima mea"
+
+ 
+ viata mea inima mea 
+ te blestem toata viata 
+ ca ai plecat si nu miai spus 
+ sufletul mi lai distrus 
+ 
+ sa te vada tatal meu 
+ 
+ pe tine am vazut cu tot 
+ numai cu doua cuvinte 
+ imi faci viata mai mult 
+ 
+ am tot ce vreau
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ viata mea inima mea"
+
+ 
+ viata mea inima mea 
+ te blestem toata viata 
+ ca ai plecat si nu miai spus 
+ sufletul mi lai distrus 
+ 
+ sa te vada tatal meu 
+ 
+ of, inima mea 
+ te rog nu te mai pot 
+ 
+ e doar iubire, a ta 
+ 
+ daca soarta ar putea
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"tot cu tine 
+ fara tine"
+tot cu tine 
+ fara tine nu traiesc 
+ 
+ eu sunt bine si sunt fericit 
+ 
+ am crezut ca anii 
+ si se vede ca la greu 
+ e doar vina ta 
+ 
+ singur ma doare si inima 
+ 
+ de cand ai plecat toate parca sunt departe 
+ ca am sa mai
+----- Diversity:0.5
+----- Generating with seed:
+"tot cu tine 
+ fara tine"
+tot cu tine 
+ fara tine nu traiesc 
+ 
+ acum eu te iubesc mai mult 
+ si ca ma iubesti 
+ pe mine nu e bine 
+ si daca pierd in viata tot 
+ pot sa te las sa te iubesc 
+ 
+ esti printesa de aur 
+ pentru nimic in lume 
+ 
+ pentru
+================================================================================
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"viata mea 
+ ca nu mai"
+viata mea 
+ ca nu mai pot sa te iubesc 
+ 
+ te iubesc si mult te iubesc 
+ 
+ tu tu esti viata mea 
+ 
+ tu esti viata mea 
+ 
+ doar tu tu esti viata mea 
+ 
+ tu nu stii ce vrei 
+ 
+ cand nu ma dau pe mine 
+ 
+
+----- Diversity:0.5
+----- Generating with seed:
+"viata mea 
+ ca nu mai"
+viata mea 
+ ca nu mai pot ca sa te mai pot 
+ 
+ daca as vrea sa te mai pot 
+ si nu te mai pot 
+ 
+ nici tu nu poti sa te mai pot 
+ 
+ ce vrei si nu ma las 
+ 
+ am sa ma duc 
+ nu ma vreau pe
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"ma mai iubesti 
+ hai nu"
+ma mai iubesti 
+ hai nu ma mai poti 
+ 
+ nu ma mai pot sa te iubesc 
+ nu pot sa te las 
+ nu pot sa te las 
+ 
+ ce mult te iubesc 
+ 
+ numai tu esti viata mea 
+ 
+ tu tu stii ca te iubesc 
+ 
+ doar o zi
+----- Diversity:0.5
+----- Generating with seed:
+"ma mai iubesti 
+ hai nu"
+ma mai iubesti 
+ hai nu ma mai dau pe mine 
+ 
+ eu nu ma poti uita 
+ 
+ cum n-am sa mai las pe altcineva 
+ sa ma iau 
+ si la dusmani 
+ 
+ am o duc si eu 
+ si pe inima mea 
+ 
+ in lumea asta mare 
+ 
+ inima
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"este cine este viata mea 
+"
+este cine este viata mea 
+ cine cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine este cine
+----- Diversity:0.5
+----- Generating with seed:
+"este cine este viata mea 
+"
+este cine este viata mea 
+ 
+ cine cine ar mai va iubi 
+ cine as mai fi langa mine 
+ si ai in toate 
+ dar am nici un om pe lume 
+ numai voi imi da om pe lume 
+ 
+ nu mai mai am nici o viata 
+ sa te iubesc 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"frate 
+ 
+ frate frate maine"
+frate 
+ 
+ frate frate maine vin 
+ ca e asa de tine 
+ dar eu nu am noroc de ei 
+ daca as vrea sa te sarut 
+ doar o zi de viata mea 
+ 
+ tu esti viata mea eu sunt viata ta 
+ sunt al tau si esti a mea 
+ 
+ ochii
+----- Diversity:0.5
+----- Generating with seed:
+"frate 
+ 
+ frate frate maine"
+frate 
+ 
+ frate frate maine vin 
+ ca e numai vina ta 
+ 
+ singur ma voi iubi 
+ 
+ n-am pe altcineva in viata 
+ 
+ nu o sa o dau o sa fie bine 
+ si la rau si la greu 
+ chiar te rog si te iubesc 
+ 
+ eu sunt viata
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"are 
+ dar vreau sa va"
+are 
+ dar vreau sa va spun ca tine 
+ te iubesc sufletul si viata mea 
+ 
+ tu esti iubirea mea 
+ iubirea mea iubirea mea 
+ 
+ iubirea mea iubirea mea 
+ 
+ as vrea doar o zi sa te iubesc 
+ 
+ tu esti cea mai frumoasa 
+ 
+ iubirea mea 
+ 
+
+----- Diversity:0.5
+----- Generating with seed:
+"are 
+ dar vreau sa va"
+are 
+ dar vreau sa va fi ca tine 
+ sa fii a mea 
+ 
+ ochii mei ar putea sa imi spui 
+ ce ar mai fi 
+ ce mult tu ai plecat 
+ si in viata in fata 
+ ca nu mai am nici sa te iubesc 
+ 
+ ce mult as vrea sa
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"si chiar daca nu pot 
+"
+si chiar daca nu pot 
+ din suflet sa te mai pot iubi 
+ 
+ tu esti iubirea mea 
+ 
+ daca as putea toata viata mea 
+ sa nu te vad o zi 
+ si atunci cand esti cu mine 
+ nu mai vrei sa ma lasi 
+ sa plang de ea 
+ 
+ cand
+----- Diversity:0.5
+----- Generating with seed:
+"si chiar daca nu pot 
+"
+si chiar daca nu pot 
+ din suflet sa te las sa fiu 
+ doar tu ma iubesti 
+ ca doar tu esti tot 
+ 
+ doar cu tine ma simt in cel mai mare 
+ 
+ nu mai am putere 
+ sa nu mai vad nu mai cred 
+ ca nu mai vreau sa imi
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"noi ne-am iubit 
+ si cat"
+noi ne-am iubit 
+ si cat ma voi iubi 
+ 
+ tu ma vei fi 
+ pe lume cat voi voi eu 
+ sa ma uit 
+ si n-am sa ma uit 
+ si ma duc la ea 
+ n-am sa ma lasa la dusmani 
+ am noroc in viata ta 
+ sa ma iubesti cu
+----- Diversity:0.5
+----- Generating with seed:
+"noi ne-am iubit 
+ si cat"
+noi ne-am iubit 
+ si cat ma voi iubi 
+ 
+ mi-e dor de tine si nu pot ca sa te uit 
+ 
+ o ar mai fi mai iubesc 
+ 
+ am sa plang si un om pe lume nu poate poate 
+ 
+ eu am sa il las pe loc 
+ ca inima mea
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ eu fac banii ca"
+
+ 
+ eu fac banii ca un un 
+ la ce ma fac 
+ 
+ n-am cum sa te las de nici 
+ ce se face 
+ si stiu ca maine ai sa faci 
+ cat am sa stiu de ce 
+ m-am avut ce sa le fac 
+ daca n-am sa te mai am 
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ eu fac banii ca"
+
+ 
+ eu fac banii ca un un om pe lume 
+ nici o nici nu cred ca traiesc decat o viata 
+ 
+ da da da da da da 
+ eu nu vreau dragoste 
+ si ma rog in viata asta 
+ si n-am sa te las 
+ 
+ nu stiu cum sa fac sa
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"la fel de greu imi e"
+la fel de greu imi e 
+ am sa vad ce fac ce vreau 
+ dar eu am un un mare 
+ pentru mine nici bani esti 
+ 
+ in ochii tai iubirea mea 
+ daca as putea 
+ o sa te mai fac 
+ sa nu stau noapentruea plecat 
+ te rog nu te las
+----- Diversity:0.5
+----- Generating with seed:
+"la fel de greu imi e"
+la fel de greu imi e 
+ am sa vad ce vreau eu de tine 
+ 
+ nu te mai las nu te mai pot 
+ 
+ nu mai mai vreau sa stiu 
+ 
+ ce sa fac nu mie bine 
+ sa nu mai plang ca nu mi-e deloc 
+ dar cand vad ca nu
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"oare cine oare cine 
+ te"
+oare cine oare cine 
+ te va mai iubi ca mine 
+ nimeni nu ma lasa 
+ 
+ in urma ta ma lasi 
+ ca tu esti cea mai frumoasa 
+ 
+ m-am pus la casa 
+ 
+ te-am iubit si nu ti-am spus 
+ stiu ca si tu ai sa vezi 
+ si tu ai
+----- Diversity:0.5
+----- Generating with seed:
+"oare cine oare cine 
+ te"
+oare cine oare cine 
+ te va mai iubi ca mine 
+ tu ai plecat si mi-ai luat iubirea 
+ singur ma mi-ai avut 
+ dar nici mine nici tu nu stii 
+ ce vrei sa-mi fac de toate 
+ 
+ in lumea asta mare 
+ 
+ inima de la mine te mai iubesc 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"de mine 
+ 
+ tata astazi"
+de mine 
+ 
+ tata astazi esti o iubesc 
+ 
+ si tu esti tot ce imi sta 
+ cand e bine rau de la rau 
+ 
+ nu am bani la dau 
+ 
+ la dusmani mei le le le le le le le le le le le le le le le le le le
+----- Diversity:0.5
+----- Generating with seed:
+"de mine 
+ 
+ tata astazi"
+de mine 
+ 
+ tata astazi esti o iubesc 
+ 
+ si tu esti tot ce am mai bun 
+ 
+ si daca as vrea sa fii langa mine 
+ mare mare mare 
+ inima mea mare mare 
+ doar a mea a fost pe loc 
+ 
+ pentru viata mea pentru tine 
+ pentru tine
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ cum sa mai stau"
+
+ 
+ cum sa mai stau cu tine daca nu mai vrei 
+ sa nu te mai pot lasa 
+ sa nu ma duc in viata mea 
+ si tot ce vrei tu 
+ 
+ nu pot sa ma uit la tine 
+ si nu vad la nimeni 
+ ce mult mi-ai facut ca nu te
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ cum sa mai stau"
+
+ 
+ cum sa mai stau cu tine daca nu ma vrei 
+ ca nici macar nu te mai 
+ te iubesc 
+ 
+ cum te iubesc eu pe tine 
+ cum iubeste langa mine 
+ toti sa o spun la 
+ cat de mult eu tin la tine 
+ 
+ dragostea mea 
+ 
+ de
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"de maine iar la mine 
+"
+de maine iar la mine 
+ sa-mi spui din suflet ca si tu ma iubesti 
+ ca nu mai pleci si nu ma mai mai vreau 
+ 
+ iti cer inima sa fii a mea 
+ 
+ ochii tai sa beau 
+ 
+ daca tu n-ai bani 
+ n-ai n-ai n-ai 
+ n-ai n-ai 
+ cu
+----- Diversity:0.5
+----- Generating with seed:
+"de maine iar la mine 
+"
+de maine iar la mine 
+ sa-mi spui din suflet ca si tu ma iubesti 
+ ca nu mai pleci si nu ma mai iubesti 
+ 
+ unde esti as vrea sa stiu la cine te mai vreau 
+ cine mi s-a pus langa tine 
+ 
+ nu am bani nu e bine 
+ dar tu
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"iubesc 
+ de ce de ce"
+iubesc 
+ de ce de ce de ce imi pare rau 
+ ca m-ai fost rau 
+ si imi pare rau ca te-am fac 
+ tu mi-ai dat iubire 
+ si tu esti viata mea 
+ 
+ sa fii tu viata mea 
+ as vrea ca tu sa fii 
+ doar tu iubirea mea 
+ 
+
+----- Diversity:0.5
+----- Generating with seed:
+"iubesc 
+ de ce de ce"
+iubesc 
+ de ce de ce de ce imi pare rau 
+ ca tu nu mai poti vrut 
+ sa o vad o rau din ea 
+ si dusmanii dai 
+ 
+ ce sa ma fac 
+ 
+ nu e cum am facut 
+ 
+ stiu ca m-am dat de mine 
+ dar tu nu vrei
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"vreau eu 
+ inima imi spune"
+vreau eu 
+ inima imi spune sa te mai pot 
+ 
+ sa nu stau sa mai pot iubi 
+ 
+ eu te iubesc mai mult 
+ si nu pot sa te uit la tine ma va iubi 
+ tu ma vei iubi 
+ in viata mea pe cineva 
+ sa nu se mai le mai
+----- Diversity:0.5
+----- Generating with seed:
+"vreau eu 
+ inima imi spune"
+vreau eu 
+ inima imi spune sa ma mai bate 
+ 
+ doar o noapentrue cu tine 
+ si sa ma simt bine 
+ ca eu sunt om bun si nu sunt rau 
+ 
+ tu nu poti sa-mi dai putere 
+ si nu as vrea 
+ sa te mai pot iubi 
+ 
+ numai pot
+================================================================================
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"
+ ca esti mereu cu mine 
+ 
+ si tin la tine ca la ochii"
+
+ ca esti mereu cu mine 
+ 
+ si tin la tine ca la ochii 
+ mine 
+ 
+ de sa nu nu te 
+ nu nu te nu sa sa sa nu sa 
+ nu nu 
+ sa sa 
+ nu nu nu sa 
+ nu sa sa nu sa sa sa 
+ nu sa sa sa nu sa 
+ te nu te sa ea 
+ nu sa nu nu nu nu mai sa 
+ 
+ nu nu te 
+ sa ma mai 
+ si nu sa mai 
+ 
+ sa nu nu sa
+----- Diversity:0.5
+----- Generating with seed:
+"
+ ca esti mereu cu mine 
+ 
+ si tin la tine ca la ochii"
+
+ ca esti mereu cu mine 
+ 
+ si tin la tine ca la ochii 
+ 
+ fost ne sa iubesc 
+ 
+ plang am mine te 
+ nu nu sa cu nu te si ai te 
+ sa nu te viata 
+ sa nu ai sa sa doar pe 
+ pe la ma 
+ nu sa te sa nu mai nu 
+ nu nu sa 
+ nu nu nu te 
+ te te nu bine 
+ 
+ nu te te ea 
+ nu ma 
+ nici nu cand nu sa 
+ sa nu ma
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"ca asa imi place 
+ viata la valoare 
+ 
+ unde se duc banii mei"
+ca asa imi place 
+ viata la valoare 
+ 
+ unde se duc banii mei 
+ 
+ sa te iubesc 
+ 
+ sa te te iubesc 
+ te iubesc 
+ 
+ nu te iubesc te iubesc 
+ nu te iubesc 
+ 
+ nu te iubesc pot 
+ 
+ nu te iubesc 
+ te iubesc 
+ 
+ nu te iubesc 
+ te iubesc 
+ te iubesc 
+ te iubesc 
+ te iubesc 
+ daca nu te iubesc 
+ tu nu pot ca nu pot 
+ 
+ nu pot sa te te iubesc 
+ 
+ ma te
+----- Diversity:0.5
+----- Generating with seed:
+"ca asa imi place 
+ viata la valoare 
+ 
+ unde se duc banii mei"
+ca asa imi place 
+ viata la valoare 
+ 
+ unde se duc banii mei 
+ 
+ ma vrei sa 
+ sa te te iubesc 
+ 
+ daca te iubesc 
+ te iubesc 
+ ca nu pot 
+ sa te iubesc 
+ 
+ nu ma o la te te 
+ 
+ nu te iubesc 
+ ca tu nu pot nu pot 
+ sa te te te te iubesc 
+ 
+ nu pot sa te te iubesc 
+ te iubesc te iubesc 
+ 
+ nu te te iubesc 
+ ca te iubesc mai mult 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"n-ai n-ai n-ai 
+ cu mine n-ai cum s-o dai 
+ nici tu nici altcineva"
+n-ai n-ai n-ai 
+ cu mine n-ai cum s-o dai 
+ nici tu nici altcineva 
+ voi voi voi mereu 
+ 
+ sa fii a mea 
+ nu pot sa fii cu tine 
+ 
+ sa te uit 
+ 
+ ma rog cu mine zi 
+ si nu am sa te iubesc 
+ 
+ nu ma mai mult mai mult 
+ 
+ nu te uit 
+ te iubesc mai mult 
+ 
+ nu te iubesc 
+ nu pot sa te uit 
+ 
+ ma rog tu nu pot 
+ sa te uit 
+ 
+ dragostea
+----- Diversity:0.5
+----- Generating with seed:
+"n-ai n-ai n-ai 
+ cu mine n-ai cum s-o dai 
+ nici tu nici altcineva"
+n-ai n-ai n-ai 
+ cu mine n-ai cum s-o dai 
+ nici tu nici altcineva mereu 
+ 
+ voi voi mereu 
+ 
+ ne daca o as vrea sa te iubesc 
+ si te iubesc 
+ nu pot sa te uit 
+ 
+ te iubesc mai mult 
+ 
+ ma pot sa te te iubesc 
+ cum te iubesc te iubesc pe mult 
+ nu pe te uit 
+ 
+ o tu nu pot sa te mai mult 
+ 
+ nu pot sa am sa te uit 
+ 
+ te iubesc te iubesc 
+ te
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"mai bine cum sunt eu 
+ cu dar de la dumnezeu 
+ cine ma vrea"
+mai bine cum sunt eu 
+ cu dar de la dumnezeu 
+ cine ma vrea ma place asa 
+ asa de asa de tine 
+ sa ne mai mult 
+ 
+ sa fii de tine 
+ sa ne cu tine sa ne cu mine 
+ sa ne cu mine sa fi cu mine 
+ sa fi cu mine cu mine 
+ nu imi mai fi cu mine 
+ nu mai fi pe mine 
+ nu mai fi nu as mai fi 
+ 
+ astazi nu as as mai fi 
+ si nu mai fi fi
+----- Diversity:0.5
+----- Generating with seed:
+"mai bine cum sunt eu 
+ cu dar de la dumnezeu 
+ cine ma vrea"
+mai bine cum sunt eu 
+ cu dar de la dumnezeu 
+ cine ma vrea ma place asa 
+ asa te voi mereu 
+ 
+ sa te iubesc 
+ cum tu cum tu nici nu pot sa ne 
+ sa te iubesc 
+ ne de cu mine nu te uit 
+ 
+ te iubesc te iubesc mai mult 
+ si nu te pot sa te iubesc ca 
+ pot sa nu ma mai uit 
+ 
+ nu pot sa te uit 
+ 
+ te rog te iubesc 
+ te iubesc mai mult pe mine 
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"urma doamne 
+ cat am facut rau sau bine 
+ nici un om pe lume"
+urma doamne 
+ cat am facut rau sau bine 
+ nici un om pe lume nu poate poate 
+ 
+ o nici sa ne sa te vad o zi 
+ 
+ o nici nu vad macar o zi 
+ cand am sa am sa am 
+ am sa ma iau 
+ 
+ nu am sa ma lasi 
+ sa iau 
+ este la viata mea 
+ 
+ ma rog sa fii 
+ sa fii cu viata ta 
+ 
+ sa fii viata mea 
+ sa fii cu tine cu tine 
+ sa fii la mea
+----- Diversity:0.5
+----- Generating with seed:
+"urma doamne 
+ cat am facut rau sau bine 
+ nici un om pe lume"
+urma doamne 
+ cat am facut rau sau bine 
+ nici un om pe lume nu poate poate 
+ 
+ cat cat as as vrea si 
+ si as faci ce vrei cu tine 
+ iti dau vreau sa te uit 
+ 
+ si te rog zi si zi 
+ si pana la la tine 
+ 
+ ma cand te iubesc 
+ te iubesc te iubesc mai mult 
+ 
+ nu te iubesc 
+ te iubesc mai mult 
+ te iubesc 
+ mult te iubesc 
+ te iubesc mai mult 
+ 
+ te iubesc si
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"cine este la inima mea 
+ cine este cine este viata mea 
+ 
+ zilele"
+cine este la inima mea 
+ cine este cine este viata mea 
+ 
+ zilele mele zile cu tine 
+ zile zile zile 
+ zile sa stau 
+ sa ne cu mine sa stau 
+ sa te iubesc cu mine 
+ cum te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ 
+ te iubesc mai mult 
+ te iubesc
+----- Diversity:0.5
+----- Generating with seed:
+"cine este la inima mea 
+ cine este cine este viata mea 
+ 
+ zilele"
+cine este la inima mea 
+ cine este cine este viata mea 
+ 
+ zilele mele zile cu tine 
+ zile zile zile 
+ zile sa imi stau 
+ sa stiu sa plang de zi 
+ sa fii de mine 
+ asa cu sa iau 
+ viata mea 
+ nu sa te cu mine 
+ nu stiu sa iau 
+ sa stiu ca la macar la 
+ 
+ te rog sa te iubesc 
+ te iubesc viata mea 
+ nu tu vrei tu esti tot ce vrei 
+ tu esti cu viata mea 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"
+ de ce doamne mi-ai dat viata 
+ daca nu mi-ai dat iubire 
+ dragostea"
+
+ de ce doamne mi-ai dat viata 
+ daca nu mi-ai dat iubire 
+ dragostea sa dragostea sa nu mai mult 
+ 
+ am sa nu mai fi in viata mea 
+ 
+ nu te mai fi ca tine 
+ si nu stiu sa ma lasi 
+ sa ma dau cu tine sa te uit 
+ 
+ te rog sa te iubesc mai mult 
+ si nu te pot ca sa te uit 
+ 
+ te iubesc mai mult 
+ tu esti viata mea 
+ nu ma vrei 
+ si nu pot sa ma faci
+----- Diversity:0.5
+----- Generating with seed:
+"
+ de ce doamne mi-ai dat viata 
+ daca nu mi-ai dat iubire 
+ dragostea"
+
+ de ce doamne mi-ai dat viata 
+ daca nu mi-ai dat iubire 
+ dragostea sa mai mult 
+ si nu te mai mult mai mult mai mult 
+ mai mult te iubesc 
+ mai mult te mai pot 
+ nu te mai mult mai mult 
+ mai mult te iubesc mai mult 
+ 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc ca nu te iubesc mai mult 
+ te iubesc mai mult decat pe mine 
+ 
+ te iubesc mai mult 
+ te iubesc cu tine 
+ ma vrei
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"
+ la la la la la la la la la la la la la la"
+
+ la la la la la la la la la la la la la la la 
+ 
+ ca viata mea 
+ ca stiu ca sa iau 
+ 
+ stiu ca maine ai sa ma iau 
+ sa iau 
+ sa iau viata mea 
+ 
+ cand cu este la tine 
+ of viata mea 
+ viata ta e tare 
+ si cu tine si pentru mine 
+ dragostea ta sa stau 
+ sa te iubesc 
+ si nu ma iubesti 
+ nu mai mult ca nu te mai pot 
+ daca ai sa ma
+----- Diversity:0.5
+----- Generating with seed:
+"
+ la la la la la la la la la la la la la la"
+
+ la la la la la la la la la la la la la la la 
+ la la viata 
+ ca viata mea 
+ ca viata mea 
+ ca maine ai sa fi 
+ tu ma vei iubi ca tine 
+ pentru mine ai sa ne mai mult 
+ si ma fi cu tine sa te mai uit 
+ ce si nu pot sa te uit 
+ si te iubesc mai mult ca viata mea 
+ 
+ nu te iubesc mai mult 
+ te iubesc mai mult 
+ 
+ nu te las nu te
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"si esti a mea 
+ eu sunt viata ta tu esti viata mea 
+ sunt"
+si esti a mea 
+ eu sunt viata ta tu esti viata mea 
+ sunt al tau si esti a mea 
+ 
+ in ochii mei din viata ta 
+ sa te iubesc si mult te iubesc mai mult 
+ tu nu pot sa te uit 
+ ce vrei si eu iti da 
+ 
+ nu te pot da 
+ si nu pot sa te pot 
+ 
+ daca ai sa uit 
+ tu esti ce cu mine 
+ nu ma iau 
+ cu tine la viata 
+ sa ne cu mine 
+ sa ma
+----- Diversity:0.5
+----- Generating with seed:
+"si esti a mea 
+ eu sunt viata ta tu esti viata mea 
+ sunt"
+si esti a mea 
+ eu sunt viata ta tu esti viata mea 
+ sunt al tau si esti a mea 
+ 
+ ochii mei din din viata viata ta 
+ sa nu iau 
+ si daca tu pe tu 
+ as vrea 
+ sa fii cu mine 
+ 
+ cat as vrea sa fii 
+ 
+ cat te iubesc cu viata mea 
+ nu pot uita 
+ inima si vrei 
+ cu tine si vreau sa ma fii 
+ 
+ sa fii cu tine cu tine sa fii 
+ sa fii la loc la
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"iubesc 2 
+ 
+ am lasat de la mine si am ramas cu tine chiar"
+iubesc 2 
+ 
+ am lasat de la mine si am ramas cu tine chiar daca nu mai nu mai pleci 
+ si nu mai nu mai pot da 
+ si nu mai pot da 
+ 
+ nu te mai pot da 
+ 
+ nu te mai pot pot 
+ daca nu mai pot nu pot 
+ daca nu pot sa pot 
+ sa te uit 
+ si in te mai mult decat pe mine 
+ 
+ daca nu te pot sa te uit 
+ 
+ si toata viata mea 
+ te iubesc te iubesc
+----- Diversity:0.5
+----- Generating with seed:
+"iubesc 2 
+ 
+ am lasat de la mine si am ramas cu tine chiar"
+iubesc 2 
+ 
+ am lasat de la mine si am ramas cu tine chiar daca ai sa stau 
+ sa nu mai mai mult 
+ si nu pot sa te uit 
+ si te iubesc mai mult 
+ decat da da da 
+ te iubesc mai mult 
+ te iubesc mai mult 
+ si nu pot sa te uit 
+ si ce mult te iubesc mai mult 
+ 
+ te iubesc si nu pot sa te iubesc 
+ te iubesc si mult te iubesc 
+ mai mult te iubesc viata mea 
+ daca ma
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"viata mea 
+ tu iubirea mea tu iubirea mea 
+ tu iubirea mea doar tu"
+viata mea 
+ tu iubirea mea tu iubirea mea 
+ tu iubirea mea doar tu iubirea mea 
+ 
+ ochii mei din cap 
+ sa ma iubesti 
+ sa faci tu ce vrei cu viata mea 
+ 
+ sa faci cu cu tine cu mine da 
+ 
+ viata sa imi sa fi cu tine 
+ si nu am sa fi tu mi-ai lasat 
+ lacrimi lasat si nu pot sa pot 
+ sa imi vreau sa te uit 
+ ce am sa ma iau 
+ le le le le te iubesc 
+ de mult
+----- Diversity:0.5
+----- Generating with seed:
+"viata mea 
+ tu iubirea mea tu iubirea mea 
+ tu iubirea mea doar tu"
+viata mea 
+ tu iubirea mea tu iubirea mea 
+ tu iubirea mea doar tu iubirea mea 
+ 
+ ochii mei din cap 
+ si nu traiesc fara tine si daca o daca nu te vad pe mine 
+ 
+ nu te vad o zi langa mine 
+ nici o nici nu mai e ca tine 
+ si nu ma dau 
+ si nu pot sa ma dau 
+ ca sa te uit 
+ 
+ ma rog in sa te iubesc 
+ viata mea 
+ te iubesc toata viata mea 
+ 
+ te iubesc ca
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"
+ fara tine iubirea mea 
+ 
+ iubirea mea esti numai tu 
+ doar tu"
+
+ fara tine iubirea mea 
+ 
+ iubirea mea esti numai tu 
+ doar tu imi imi iubirea mea 
+ 
+ m-ai fost fost 
+ m-ai fost sa mor 
+ de tine sa fii 
+ sa ma iubesti cu tine sa ma iau 
+ sa imi dau la inima mea 
+ nu pot sa te uit 
+ 
+ te iubesc mai mult 
+ si nu pot da da 
+ te iubesc mai mult 
+ si nu pot da 
+ si nu pot sa te uit 
+ 
+ ce te pot da 
+ si te iubesc
+----- Diversity:0.5
+----- Generating with seed:
+"
+ fara tine iubirea mea 
+ 
+ iubirea mea esti numai tu 
+ doar tu"
+
+ fara tine iubirea mea 
+ 
+ iubirea mea esti numai tu 
+ doar tu imi imi iubirea mea 
+ 
+ nu ma pot sa ma va place 
+ 
+ tu ma cu tine sa te uit 
+ 
+ ma iubesti cu mine nu te pot 
+ si nu te pot sa te iubesc 
+ si nu pot ce eu sa te pot 
+ 
+ eu iti pot iti da da 
+ 
+ si nu te pot da da 
+ da da da 
+ tu ma vrei 
+ tu esti tot ce vrei 
+ si
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot"
+sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ m-ai facut sa va fi 
+ sa fi cu tine sa fi cu mine nu fi in dat si as fi in orice si la bine si nu pot da 
+ si nu pot da da 
+ si iti da da 
+ da da da 
+ tu esti tot ce vreau 
+ ce vreau sa stau 
+ si sa fi cu tine sa stau 
+ sa te iubesc cu mine si nu pot uita 
+
+----- Diversity:0.5
+----- Generating with seed:
+"sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot"
+sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ m-ai facut sa va fi ca tine 
+ na fost sa fi tu mi-ai lasat 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ m-ai facut sa va fi pe tine 
+ na fost sa fi tu nici o sa ai sa fac 
+ sa fac nu te uit 
+ si nu te uit 
+ si te iubesc mai mult 
+ te iubesc mai mult 
+ te iubesc mai
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"si eu 
+ 
+ cat am sa traiesc 
+ am sa te iubesc 
+ tu"
+si eu 
+ 
+ cat am sa traiesc 
+ am sa te iubesc 
+ tu esti viata mea 
+ nu nu te pot sa te iubesc 
+ cum traiesc fara tine nu esti 
+ tu esti tot ce imi vreau 
+ si imi pentru tine si nu am sa stau 
+ si te iubesc mai mult 
+ si nu pot sa te uit 
+ si te iubesc mai mult 
+ si nu pot da da da 
+ te iubesc mai mult 
+ si nu te pot da da da 
+ si te iubesc mai mult
+----- Diversity:0.5
+----- Generating with seed:
+"si eu 
+ 
+ cat am sa traiesc 
+ am sa te iubesc 
+ tu"
+si eu 
+ 
+ cat am sa traiesc 
+ am sa te iubesc 
+ tu esti viata mea 
+ nu ma pot nu 
+ pot sa te uit 
+ si eu in viata mea 
+ ca tu esti tu esti tot 
+ cu cine pentru mine 
+ pot sa ne cu mine 
+ sa fi cu tine 
+ sa fi in inima mea 
+ doar iubire la inima mea 
+ si din in inima mea 
+ sufletul din o zi 
+ si din tot ce am pe ea 
+ 
+ nu am nici pe lume
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"banii mei 
+ ca mor dupa ochii tai 
+ of iubirea mea... 
+ toti banii"
+banii mei 
+ ca mor dupa ochii tai 
+ of iubirea mea... 
+ toti banii nu au valoare 
+ cand iubirea este mare 
+ 
+ nu te las nu te las nu te las 
+ tu esti tot ce vrei 
+ ce vrei 
+ tu esti tot 
+ ce am tot cu mine 
+ sa fi cu mine nu am sa plang 
+ de tine nu am sa iau un un nu e e viata mea 
+ ca am tu esti tot 
+ am fost tau pe tine 
+ si nu te-ai tu pe altcineva
+----- Diversity:0.5
+----- Generating with seed:
+"banii mei 
+ ca mor dupa ochii tai 
+ of iubirea mea... 
+ toti banii"
+banii mei 
+ ca mor dupa ochii tai 
+ of iubirea mea... 
+ toti banii nu au valoare 
+ cand iubirea este mare 
+ 
+ te rog nu te las nu te las nu te las 
+ nu te iubesc 
+ tu esti tu esti tot ce nu esti 
+ nu te pot din tine 
+ si nu pot sa te uit 
+ 
+ tu esti tot ce mai pot 
+ iti dau nu te pot 
+ la mine 
+ cum te iubesc mai mult 
+ te iubesc mai mult 
+ si nu pot sa
+================================================================================
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"spune-mi cine pentru tine 
+ spune-mi cine stii prea bine 
+ 
+ spune-mi cine pentru"
+spune-mi cine pentru tine 
+ spune-mi cine stii prea bine 
+ 
+ spune-mi cine pentru tine 
+ 
+ spune-mi cine pentru tine 
+ 
+ spunemi cine pentru tine 
+ 
+ spunemi cine pentru tine 
+ spunemi cine 
+ pentru tine 
+ pentru tine 
+ a mea 
+ ca eu te iubesc 
+ 
+ si nu mai fi ca sa te mai fi 
+ 
+ cand te-am fi ca sa te iubesc 
+ 
+ te rog nu mai mai fi 
+ 
+ cand te rog nu te rog 
+ te rog nu ma iubesc 
+ cum
+----- Diversity:0.5
+----- Generating with seed:
+"spune-mi cine pentru tine 
+ spune-mi cine stii prea bine 
+ 
+ spune-mi cine pentru"
+spune-mi cine pentru tine 
+ spune-mi cine stii prea bine 
+ 
+ spune-mi cine pentru tine 
+ 
+ ca vreau sa fac 
+ 
+ spune-mi pentru tine te iubesc 
+ 
+ avut pentru tine 
+ ca te-am fost cu mine 
+ 
+ 
+ ca sa ma iubesti 
+ ca si te-am spun 
+ 
+ ca ma rog ma iubesc 
+ 
+ daca daca tu esti viata mea 
+ 
+ ca nu mai fi 
+ dar nu mai pot de mine 
+ orice ca sa te mai fi 
+ sa te mai mai fi 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ mi-a ramas doar poza ta 
+ si de dor imi trece cand ma"
+
+ 
+ mi-a ramas doar poza ta 
+ si de dor imi trece cand ma mai ramas 
+ sa plang si nu mai pot 
+ 
+ acum esti acum mai mai stai 
+ 
+ mai bine ca ma mai bine 
+ 
+ tu esti cu mine 
+ ca te-am fost 
+ 
+ te-am trecut cea fost 
+ 
+ de ce vrei sa ma lasi 
+ sa te iubesc 
+ 
+ te rog si te rog nu te iubesc 
+ 
+ chiar de ce vrei sa te iubesc 
+ 
+ te iubesc te iubesc te iubesc
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ mi-a ramas doar poza ta 
+ si de dor imi trece cand ma"
+
+ 
+ mi-a ramas doar poza ta 
+ si de dor imi trece cand ma mai 
+ 
+ vreau sa plang si de ochii tai 
+ ai trecut 
+ ca nu pot vreau sa te pierd 
+ te rog si nu mai pot 
+ 
+ esti acum in viata mea 
+ 
+ te iubesc din inima 
+ 
+ mereu ca sa te iubesc 
+ ca si nu am plecat 
+ si apoi si tu esti tot 
+ 
+ cand am fost sa plang si tu 
+ si tu ai trecut 
+ 
+ sa mai stiu
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"si necaz 
+ 
+ pentru voi am mai ramas pe lume 
+ numai voi imi"
+si necaz 
+ 
+ pentru voi am mai ramas pe lume 
+ numai voi imi faceti zile bune 
+ am un foc in mine ce ma arde 
+ voi imi dati putere sa merg mai departe 
+ 
+ ma iubeste 
+ 
+ ma mai stiu ca te mai mult 
+ 
+ daca nu mai pot de mila ta 
+ ca tu esti viata mea 
+ ca te rog nu ma iubesti 
+ tu esti fericirea mea 
+ 
+ tu esti viata mea 
+ 
+ de ce sunt fericit ca eu sunt al tau 
+ 
+
+----- Diversity:0.5
+----- Generating with seed:
+"si necaz 
+ 
+ pentru voi am mai ramas pe lume 
+ numai voi imi"
+si necaz 
+ 
+ pentru voi am mai ramas pe lume 
+ numai voi imi faceti zile bune 
+ am un foc in mine ce ma arde 
+ voi imi dati putere sa merg mai departe 
+ 
+ ma iubeste rau 
+ pentru tine am fost 
+ 
+ stiu ca ma poti sa plang 
+ dar pentru tine 
+ de ce oare de ce 
+ te rog tu nu ma lasi 
+ ce ma minti ca ma minti ca ma lasi 
+ ce ma minti ca ma iubesti 
+ de ce oare de mine 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"sufletul si inima 
+ daca ai putea macar clipa as vrea 
+ sa ma crezi"
+sufletul si inima 
+ daca ai putea macar clipa as vrea 
+ sa ma crezi ca te iubesc ca o sa te iubesc 
+ 
+ chiar te rog nu te mai pot avea 
+ 
+ chiar daca nu te mai pot avea 
+ 
+ esti tot ce am mai ramas pe lume 
+ 
+ numai voi imi faceti zile bune 
+ ca am un foc in mine ce ma arde 
+ voi imi dati putere sa merg mai departe 
+ 
+ voi mai ramas pe lume lume lume lume numai bune 
+ 
+ pentru mine
+----- Diversity:0.5
+----- Generating with seed:
+"sufletul si inima 
+ daca ai putea macar clipa as vrea 
+ sa ma crezi"
+sufletul si inima 
+ daca ai putea macar clipa as vrea 
+ sa ma crezi ca te sarut 
+ dar o zi si tu esti viata mea 
+ ca nu pot ca sa te mai stai 
+ cu mine esti viata mea 
+ ca intr-o zi 
+ ca te-am fi numai a mea 
+ 
+ a mai fost bine ca sa mor 
+ de chipul tau si esti 
+ 
+ esti femeia fost un sarut 
+ de ce sa te vada 
+ ce rost are l-ai la inima 
+ 
+ ce sa te pierd 
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"
+ n-au stiut cat de mult te-am iubit 
+ si vina mea e doar ea"
+
+ n-au stiut cat de mult te-am iubit 
+ si vina mea e doar ea 
+ dragostea mea numai a mea 
+ 
+ tu nu sunt la fel ca ochii mei 
+ o mama mea 
+ ca nu te mai mai pot iubi 
+ 
+ esti prima iubire 
+ de ce mai mult 
+ doar tu ma iubesti 
+ de ce sa ma minti ca te iubesc 
+ 
+ ma rog si nu ma lasi 
+ te rog nu ma lasi 
+ nici tu nu ai sa te pierd 
+ de ce sa ma lasi
+----- Diversity:0.5
+----- Generating with seed:
+"
+ n-au stiut cat de mult te-am iubit 
+ si vina mea e doar ea"
+
+ n-au stiut cat de mult te-am iubit 
+ si vina mea e doar ea dragostea mea 
+ numai eu nu e un joc 
+ dar nici nu ai plecat si tu esti tu 
+ 
+ cu tine iubirea mea 
+ 
+ nu mai sunt fericit fara tine 
+ doar tu ma iubesti 
+ 
+ esti tu ma rog sa ma lasi 
+ sa te iubesc 
+ 
+ esti viata mea 
+ de ce oare iubirea mea 
+ 
+ tu esti iubirea mea 
+ tu sa ma lasi 
+ iubirea mea 
+ te iubesc mai
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"si ai plecat 
+ o clipa am crezut ca vad in tine 
+ si e"
+si ai plecat 
+ o clipa am crezut ca vad in tine 
+ si e bine si pentru mine 
+ d c in suflet mi-ai facut 
+ 
+ cand sunt cu tine 
+ de ce sa fac ca ma gandesc 
+ oare de ce oare de ce oare de la pamant 
+ de ce ai jucat cu mine 
+ sa ne iubim de ce oare de ce ai sa fie de viata mea 
+ 
+ prima iubire te rog nu te mai suna 
+ de ce nu ma las de ce nu te pot de
+----- Diversity:0.5
+----- Generating with seed:
+"si ai plecat 
+ o clipa am crezut ca vad in tine 
+ si e"
+si ai plecat 
+ o clipa am crezut ca vad in tine 
+ si e si vina pentru mine 
+ d c in suflet mi-ai lasat 
+ numai tu mi-ai lasat mereu ca o al tau 
+ 
+ azi ne iubim la fel si tu 
+ dar cu sufletul meu 
+ ce n-ai cu inima meu 
+ 
+ ce vrei sa pleci dragostea mea 
+ 
+ da-mi viata e asa de tine 
+ dar nu vreau sa te las sa te pierd 
+ si tu ma iubesti 
+ imi faci viata mai tare 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"tot ce vrei sufletul inima 
+ iti dau zilele nopentruile viata mea 
+ numai ti-as"
+tot ce vrei sufletul inima 
+ iti dau zilele nopentruile viata mea 
+ numai ti-as vrea sa iti dau dragostea 
+ lasa-ma 
+ lasa-ma 
+ dar cu viata mea 
+ 
+ cand tu ma iubesti 
+ dar nu mai pot de al tau 
+ 
+ nu mai pot de al tau drag 
+ ca te port in sufletul meu 
+ 
+ nu te mai vreau nu te mai pot nu pot sa te pot avea 
+ daca nu te las sa te scot 
+ 
+ te rog nu te mai pot avea 
+ 
+ nu
+----- Diversity:0.5
+----- Generating with seed:
+"tot ce vrei sufletul inima 
+ iti dau zilele nopentruile viata mea 
+ numai ti-as"
+tot ce vrei sufletul inima 
+ iti dau zilele nopentruile viata mea 
+ numai ti-as vrea sa iti dau dragostea mea 
+ lasa-ma mele 
+ dar tu pe cine as face 
+ 
+ te-am vazut si nu am putere 
+ chiar daca esti sarac nu te iubesc 
+ nu te las sa te las de mine de ce oare esti langa mine 
+ 
+ am sa mor de ce mi-a facut de ce 
+ de ce ai sa te iert 
+ te rog nu mai pot uita 
+ m-ai uitat m-ai ranit 
+ fiindca nu
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"... 
+ te rog sa te intorci acum 
+ ca imi este tare dor de"
+... 
+ te rog sa te intorci acum 
+ ca imi este tare dor de tine 
+ denisa 
+ te iubesc te iubesc 
+ nu te las nu traiesc 
+ nu te pune 
+ nu te iubesc 
+ te iubesc de mult ca nu mai pot 
+ nu ma lasa 
+ eu te plac si nu ma pot 
+ pe tine ma vrea ca ma iubesti 
+ pe tot ce ma mine 
+ de ce sa ma lasi 
+ sa te rog nu te gandesti 
+ 
+ de ce n-ai spus 
+ ca tu ai
+----- Diversity:0.5
+----- Generating with seed:
+"... 
+ te rog sa te intorci acum 
+ ca imi este tare dor de"
+... 
+ te rog sa te intorci acum 
+ ca imi este tare dor de tine 
+ denisa 
+ te iubesc te iubesc 
+ sa nu te mai nu pot avea 
+ 
+ daca nu am pe bani nu pot 
+ nici pe bani pe lume nu ma poate 
+ 
+ dorul de ea 
+ ca plang si ma poti lasa 
+ 
+ in inima ta eu ma jur 
+ nu vreau pe tine sa ma faci cum ma vrei 
+ tu esti viata mea 
+ ca sa ma minti ca ma iubesti 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"crezut 
+ anii care i-am pierdut 
+ 
+ cu tine sau fara tine 
+ e"
+crezut 
+ anii care i-am pierdut 
+ 
+ cu tine sau fara tine 
+ e tot una pentru mine 
+ intr-o luna doua trei 
+ am sa uit de ochii tai 
+ eu te-am iubit 
+ te-am iubit si te-am iubit 
+ si in lumea asta nici macar o zi 
+ si pana ce sa ma lasi 
+ si atunci ma gandesc la tine 
+ de ce sa te iubesc 
+ si te iubesc mai mult 
+ da da da da da 
+ te iubesc mai mult 
+ 
+ te iubesc mai mult 
+ si
+----- Diversity:0.5
+----- Generating with seed:
+"crezut 
+ anii care i-am pierdut 
+ 
+ cu tine sau fara tine 
+ e"
+crezut 
+ anii care i-am pierdut 
+ 
+ cu tine sau fara tine 
+ e tot una pentru mine 
+ intr-o luna doua trei 
+ am sa uit de ochii tai 
+ stai cu mine cand te-am iubit 
+ ca eu te iubesc si ma vrei 
+ cu tine ar fi sa fi cu mine 
+ viata mea vei fi in viata mea 
+ nu pot ca sa mai pot iubi singur dragostea ta 
+ 
+ tu esti fata ca mine 
+ eu as vrea sa mor 
+ de la tine am de viata 
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"mai am 
+ 
+ nimeni nu va mai fi ca tine 
+ n-a fost sa"
+mai am 
+ 
+ nimeni nu va mai fi ca tine 
+ n-a fost sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ nimeni nu va mai fi ca tine 
+ na fost sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ nimeni nu va mai fi ca tine 
+ na fost sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ nimeni
+----- Diversity:0.5
+----- Generating with seed:
+"mai am 
+ 
+ nimeni nu va mai fi ca tine 
+ n-a fost sa"
+mai am 
+ 
+ nimeni nu va mai fi ca tine 
+ n-a fost sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ nimeni nu va mai fi ca tine 
+ na fost sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ nimeni nu va mai fi ca tine 
+ na fost sa fi tu pentru mine 
+ doar ai trecut prin viata mea 
+ nu pot uita iubirea ta 
+ 
+ nimeni
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"ea 
+ of iubirea mea 
+ 
+ ti-am dat tie inima 
+ of iubire of"
+ea 
+ of iubirea mea 
+ 
+ ti-am dat tie inima 
+ of iubire of iubire 
+ te va mai tare 
+ nu te lasa 
+ nu te mai pune 
+ daca nu mai pot nu te mai vreau 
+ daca te vad macar o zi 
+ nu mai pot nu pot sa cred ca te uit 
+ 
+ ma uit in viata mea 
+ numai pot uita 
+ 
+ te-am ales sa te gandesti 
+ oare tu esti tot ce mai mult 
+ 
+ ma rog in inima mea 
+ nu te las sa
+----- Diversity:0.5
+----- Generating with seed:
+"ea 
+ of iubirea mea 
+ 
+ ti-am dat tie inima 
+ of iubire of"
+ea 
+ of iubirea mea 
+ 
+ ti-am dat tie inima 
+ of iubire of iubire 
+ of iubirea mea 
+ of iubire 
+ viata mea 
+ doar tu 
+ cand te va fi langa mine 
+ n-ar mai plange din mine 
+ atunci cand se mai fac fericit 
+ 
+ pe tine ma fac tot pe tine 
+ ma gandesc la mine 
+ sa mor de la dusmani 
+ ca mor de la pamant la tine 
+ de nu te mai pot iubi 
+ si atunci iti dau si eu 
+ te plac si
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"atat de rea 
+ oare ce vrei de la mine 
+ cand eu iti spun"
+atat de rea 
+ oare ce vrei de la mine 
+ cand eu iti spun fara tine 
+ iti dau tie toata dragostea 
+ si ca eu nu te las in mine 
+ 
+ ... 
+ dar tu esti femeia pe fata 
+ 
+ cate zile va mai avea 
+ peste ca mama mea iubirea mea 
+ daca ai fi doar pentru tine 
+ 
+ iubirea mea va fi iubirea mea 
+ ca sa pleci pentru mine 
+ doar langa mine ai trecut 
+ 
+ sa-ti place inima mea 
+ stai cu mine nu iti
+----- Diversity:0.5
+----- Generating with seed:
+"atat de rea 
+ oare ce vrei de la mine 
+ cand eu iti spun"
+atat de rea 
+ oare ce vrei de la mine 
+ cand eu iti spun fara ea 
+ cand eu te vreau langa mine 
+ 
+ nu vreau nici sa pleci si o noapentrue 
+ mi-ai spus pe sufletul meu 
+ of viata mea 
+ ca tu o clipa sa blestem 
+ 
+ doar cu mine ai fi in viata mea 
+ si tu esti sufletul meu 
+ si in orice iubire 
+ pentru tine dragostea ta 
+ 
+ nu vreau sa nu pot sa te mai pleci 
+ prin toate ca te iubesc mai
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"la la 
+ 
+ regina mea 
+ printesa mea 
+ sufletul meu 
+ inima mea"
+la la 
+ 
+ regina mea 
+ printesa mea 
+ sufletul meu 
+ inima mea 
+ viata mea 
+ 
+ viata mea 
+ frumoasa 
+ of iubirea mea 
+ viata mea viata mea 
+ viata mea viata mea 
+ ca tu ai plecat 
+ iubirea mea iubirea mea 
+ 
+ mai da-mi o clipa nu vreau sa stau 
+ daca ai fi o zi sa beau 
+ ca numai va fi fost mine 
+ sa nu stiu sa ma lasi singur 
+ sa fi langa mine 
+ cand va fi cum vei fi 
+ 
+
+----- Diversity:0.5
+----- Generating with seed:
+"la la 
+ 
+ regina mea 
+ printesa mea 
+ sufletul meu 
+ inima mea"
+la la 
+ 
+ regina mea 
+ printesa mea 
+ sufletul meu 
+ inima mea 
+ viata mea 
+ 
+ iubeste-ma mult de viata mea 
+ iubeste-ma si tot pe cineva 
+ 
+ nu e asa de loc 
+ intr-o toate zilele de plang 
+ si cand eu ne iubim noi cu tine 
+ 
+ cand m-am saturat nici nici o nici macar o nici macar o zi 
+ si zi sa ma iubesti si cred ca sa traiesc 
+ ce mult as vrea sa ma lasi 
+ sa te iubesc de ce oare te-ai
+================================================================================
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"tine atat cat pot 
+ da nu am"
+tine atat cat pot 
+ da nu am fost candva jumatatea ta 
+ 
+ nu putea fara 
+ ca nu mai vreau sa te ascunzi 
+ 
+ nu stiu ca ai putut 
+ 
+ 
+ daca nu ma minti 
+ sa ma minti ca ma iubesti 
+ sa ma iubesti sa ma iubesti 
+ sa ma minti ca ma iubesti 
+ si sa ma iubesti 
+ 
+ daca nu ma iubesti 
+ te iubesc te iubesc 
+ si nu mai pot sa ma iubesti 
+ daca nu am
+----- Diversity:0.5
+----- Generating with seed:
+"tine atat cat pot 
+ da nu am"
+tine atat cat pot 
+ da nu am somn 
+ sa te vad eu nu putea 
+ sa ma ascunzi l-ai l-ai la la la un mili milion 
+ nu te mai milion mili mili mili milion 
+ una un mili mili mili mili mili milion 
+ una un mili mili mili mili mili milion 
+ una un mili mili mili mili mili milion 
+ una un mili mili mili mili mili milion 
+ una un mili mili mili mili mili milion 
+ una un mili mili mili
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"faci tu ce vrei cu ele 
+ viata"
+faci tu ce vrei cu ele 
+ viata mea si nu mai pot 
+ fara tine nu am mai ramas 
+ fara zile bune fara hello iubita 
+ 
+ hello numarul de telefon hello gagica hello 
+ dami numarul ca nu am un hello 
+ hello gagica hello iubita 
+ dami numarul ca nu am somn 
+ 
+ hello gagica hello iubita 
+ dami numarul ca nu am somn 
+ sa hello gagica hello iubita 
+ dami numarul ca nu am somn 
+ 
+ hello gagica hello iubita
+----- Diversity:0.5
+----- Generating with seed:
+"faci tu ce vrei cu ele 
+ viata"
+faci tu ce vrei cu ele 
+ viata e si nu e buna 
+ fara tine nu e om 
+ si fara mine nu am sa ma lasi 
+ printesa de aur 
+ 
+ daca nu mai vad de mine 
+ si atunci cand ai plecat si nu ma minti 
+ sufletul mi l-ai distrus 
+ 
+ sa ma lasi inima mea 
+ si ma iubesti 
+ nu stiu daca nu se mai cred de la mine 
+ 
+ ce sa te sarut 
+ sa te vada as
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"ma mai iau dupa ea 
+ orice mi"
+ma mai iau dupa ea 
+ orice mi se intampla 
+ sa fii a mea 
+ 
+ tu esti viata mea 
+ 
+ tu esti viata mea.. 
+ 
+ esti tu esti tu 
+ 
+ tu esti femeia cu mine 
+ 
+ tu esti una la un mili milion 
+ la un mili milion mili mili mili milion 
+ mili mili mili mili mili mili mili milion 
+ tu esti una la un mili mili milion 
+ la un milion mili mili mili mili milion 
+ mili mili
+----- Diversity:0.5
+----- Generating with seed:
+"ma mai iau dupa ea 
+ orice mi"
+ma mai iau dupa ea 
+ orice mi se intampla 
+ sa am grija de ea 
+ 
+ de ce nu stiu de ce mai pot 
+ de ce esti cu mine 
+ fara tine nu mai e viata 
+ 
+ macar o zi din clipa as vrea 
+ sa ma lasi sa te mai ascunzi 
+ ce ai putut stii cat de mult 
+ mi-ai lasat sa stai in viata ta 
+ nu pot sa-ti spun ca te uit 
+ ca nu mai vreau pe tine 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"ca esti prea departe de mine 
+ sa"
+ca esti prea departe de mine 
+ sa te vad pe iei 
+ 
+ nu pot sa ma lasi 
+ sa uit de tot ce nu pot 
+ sa uit de ea 
+ 
+ a mai dulce ti-e mila de ea 
+ sa faci ce vrei de viata mea 
+ 
+ de ce nu te las 
+ sa te joci cu inima mea 
+ tu esti viata mea 
+ 
+ tu esti iubirea mea 
+ 
+ tu esti viata mea 
+ 
+ tu esti iubirea ta 
+ 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ca esti prea departe de mine 
+ sa"
+ca esti prea departe de mine 
+ sa te vad din viata mea 
+ 
+ ce mult am sa te iubesc 
+ 
+ nu ma las nu ma las la lasa 
+ dar ai suflet bun si la fel si tu ai sa ma minti 
+ 
+ am fost de mila ta 
+ dar nu am putea sa ma iei 
+ dar nu pot sa ma lasi 
+ sa ma iubesti ca ma iubesti 
+ iubirea mea 
+ si nu ma mai lasa 
+ si ma vei iubi
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"
+ te astepentru sa vii iubire 
+ ca"
+
+ te astepentru sa vii iubire 
+ ca te iubesc 
+ si nu mai vreau sa te mai pot 
+ sa ma lasi acum 
+ sa te las in drum 
+ ca ai plecat si nu mi-ai spus 
+ sufletul mi l-ai distrus 
+ 
+ ooo viata mea inima mea 
+ te blestem toata viata 
+ ca ai plecat si nu mi-ai spus 
+ sufletul mi l-ai distrus 
+ 
+ sa te vad inima 
+ te rog nu pot iubi pe mine 
+ si nu te vreau la
+----- Diversity:0.5
+----- Generating with seed:
+"
+ te astepentru sa vii iubire 
+ ca"
+
+ te astepentru sa vii iubire 
+ ca nu am sa te gasesc 
+ nu iti da noroc pe bani 
+ si daca vrei o sa ma dau 
+ am noroc in viata mea 
+ 
+ nu vreau sa te las nu te las 
+ sa te las in suflet bun 
+ dar ce ai plecat in lumea toata lumea 
+ 
+ daca ai n-ai n-ai n-ai stii ca as putea 
+ sa-ti dea iubi 
+ nu mai vreau sa te mai cred 
+ dar mai bine ca
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"pe viata mea 
+ ca nu te-as da"
+pe viata mea 
+ ca nu te-as da pe altcineva 
+ si orice fata mea 
+ 
+ te iubesc te iubesc 
+ si nu mai vreau sa te las 
+ chiar daca tu esti langa mine 
+ esti iubirea vietii mele 
+ ca tu esti femeia pe altcineva 
+ 
+ tu ai fost candva de ea 
+ 
+ ai putea sa ma lasi 
+ sa ma iubesti 
+ cum ma iubesti 
+ nu ma lasa nu ma lasa 
+ ma lasa 
+ si ma rog la ea 
+
+----- Diversity:0.5
+----- Generating with seed:
+"pe viata mea 
+ ca nu te-as da"
+pe viata mea 
+ ca nu te-as da pe altcineva 
+ 
+ orice ar fi sa te iubesc 
+ 
+ am plans lacrimi de toate 
+ 
+ nu stiu daca vreau sa ma lasi 
+ sa fii a mea 
+ ca un nebun si o mie 
+ 
+ am sa te mai vad de tot 
+ am fost de frate 
+ de nu am plecat 
+ si un placut deloc usor 
+ sa te iubesc pe tine te iubesc 
+ si numai cu mine fi asa 
+ 
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"nebuna 
+ si eu dupa ea 
+ dar"
+nebuna 
+ si eu dupa ea 
+ dar nu pot sa cred ca am sa te scot din suflet sa te iubesc 
+ numai am sa te iubesc 
+ 
+ cat de mult te iubesc 
+ 
+ de ce nu te mai lua cu mine 
+ te faci singur de drum 
+ ca ai bani si nu ai sa te vezi 
+ chiar daca tu esti langa mine 
+ te rog si te vad sa te sarut 
+ sa te vada mama mea 
+ ca ai suflet bun
+----- Diversity:0.5
+----- Generating with seed:
+"nebuna 
+ si eu dupa ea 
+ dar"
+nebuna 
+ si eu dupa ea 
+ dar sa fie am parte 
+ dar nu ma lasa nu lasa 
+ sa uit frumusetea ta 
+ 
+ o sa plang ca nu am mai ramas pe loc 
+ si nu imi pasa 
+ sa mai plec cand ma iubesti 
+ sa te mai iubesc atat de mult 
+ si as vrea sa stai 
+ sa te scot ma rog te rog sa nu ma lasi 
+ sa simt si toti dusmanii 
+ ca le le le le le 
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"pana noapentrue 
+ sa pot sa pun un"
+pana noapentrue 
+ sa pot sa pun un ban pe ban 
+ dau dau si eu pe ea 
+ 
+ daca nu ma vrei pe tine 
+ 
+ cum sa fac cum te iubesc 
+ 
+ doar cand ai plecat si nu mi-ai spus 
+ sufletul mi l-ai distrus 
+ 
+ sa te vad inima mea 
+ cat as vrea sa te las 
+ sa mai spun ca te iubesc 
+ 
+ ce mult as da si viata mea 
+ 
+ nu as da si inima mea 
+
+----- Diversity:0.5
+----- Generating with seed:
+"pana noapentrue 
+ sa pot sa pun un"
+pana noapentrue 
+ sa pot sa pun un ban pe ban 
+ dau dau si sa imi place 
+ 
+ daca vrei sa ma lasi 
+ dar tu sa fii cu mine 
+ n-ai n-ai n-ai n-ai n-ai 
+ sa ma dai cu mine n-ai cum sa ma ma 
+ sa te pierd in mintea mea nu pot sa cred 
+ nu ai mai iubit pe nimeni nu mai e 
+ dar cum as sa te rog 
+ sa te vada tatal meu 
+ ca nu pot sa
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"aur 
+ inima de aur dumnezeu mi-a dat"
+aur 
+ inima de aur dumnezeu mi-a dat 
+ si un minut nu ma lasa 
+ asa cum plange 
+ cum sufar tu si ai 
+ de ce ai plecat 
+ ai plecat in spate 
+ 
+ ai plecat si ai plecat 
+ si ai jurat am in viata mea 
+ ca nu te-as da pe nimenea 
+ nu te las nu te las 
+ te las in urma mea 
+ ca nu esti aici 
+ 
+ sunt cu tine langa mine 
+ vreau sa mor si tot
+----- Diversity:0.5
+----- Generating with seed:
+"aur 
+ inima de aur dumnezeu mi-a dat"
+aur 
+ inima de aur dumnezeu mi-a dat 
+ si un buzunare mi-a dat un vis 
+ ca sa-ti mai fac viata 
+ 
+ dar sa te duc pe mine 
+ ca sa-ti fie bine viata mea. 
+ eu nu te las in drum 
+ ca ai suflet bun viata mea. 
+ 
+ tu esti langa mine 
+ pentru a ta si astazi plang mi-a fost dor de tine 
+ 
+ te iubesc te iubesc 
+ si nu mai pot sa traiesc 
+ sa te mai vad in
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"stiu inca ma mai iubesti dar vrei sa"
+stiu inca ma mai iubesti dar vrei sa pleci 
+ nu stiu ce sa fac 
+ sa te las 
+ sa te las in inima ta 
+ ca esti printesa de mine 
+ asa se face cum e 
+ 
+ ce vrei daca vrei 
+ te rog sa te las 
+ te rog sa-mi spui ca ma iubesti 
+ spune-mi ca iubesti 
+ ca ma iubesti 
+ si nu ma vrei pe mine 
+ 
+ te rog nu mai vreau sa te las 
+ sa te vada inima
+----- Diversity:0.5
+----- Generating with seed:
+"stiu inca ma mai iubesti dar vrei sa"
+stiu inca ma mai iubesti dar vrei sa pleci 
+ tu esti iubirea mea 
+ 
+ tu esti iubirea mea 
+ 
+ tu esti tot ce mi-am dorit 
+ eu stiu ca am facut eu de dor 
+ daca nu mai mai vrei o zi 
+ 
+ nu mai pot sa ma lasi 
+ sa te vad pe mama mea 
+ ca sa mai fac ca te iubesc 
+ 
+ ce vreau de la mine 
+ ca eu nu mai vreau pe lume 
+ 
+ iubirea mea ca
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"pe tine viata mea si mor de dragul"
+pe tine viata mea si mor de dragul tau 
+ 
+ de cand m-am frate eu pe mine 
+ cand ma va fi cea mai frumoasa 
+ 
+ de ce nu mai vreau sa te scot nu te mai gandesti 
+ dar tu nu esti tu nu ai sa crezi 
+ te iubesc 
+ dar cum ma iubesti 
+ si nu ma lasa de lasa 
+ asa mi-am dat seama mare 
+ 
+ de ce nu vrei sa ma lasi 
+ te rog sa te gandesti 
+ cand
+----- Diversity:0.5
+----- Generating with seed:
+"pe tine viata mea si mor de dragul"
+pe tine viata mea si mor de dragul tau 
+ 
+ eu stiu ca am gresit 
+ tu nu esti cu mine 
+ si nu stiu daca tu nai fi pe toate 
+ nu vreau sa ma lasi sa am 
+ sa te am 
+ sa te iert 
+ dar acum inima sa te iubesc 
+ 
+ nu mai pot de al tau drag 
+ ca nu pot sa mai traiesc 
+ tu ma vrei in viata mea 
+ tu n-ai cum sa te iubesc 
+ 
+ de
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"si o femeie asa ca tine 
+ stiu"
+si o femeie asa ca tine 
+ stiu ce ar vrea 
+ sa iti spun ca am gresit 
+ ce vrei de la mine 
+ ca eu nu vreau sa ma lasi 
+ sa te las in urma mea 
+ ca esti viata mea 
+ 
+ te iubesc te iubesc 
+ si nu pot sa ma lasi 
+ sa te las in mintea mea 
+ ca esti tot ce am mai bun 
+ 
+ nu le mai fac decat nimic 
+ 
+ nu pot sa ma lasi sa
+----- Diversity:0.5
+----- Generating with seed:
+"si o femeie asa ca tine 
+ stiu"
+si o femeie asa ca tine 
+ stiu ce am putut de la mine 
+ daca te rog sa ma iubesti 
+ sa ma iubesti daca ma iubesti 
+ ca nu ma iubesti pe mine 
+ sa nu ma iubesti la fel ca viata mea nu te pune 
+ nu mai vreau sa te pune 
+ 
+ asta mi-am gresit 
+ 
+ nu stiu ce-i cu mine ca e zi de toate 
+ 
+ stiu ca mor de mor si de tine. 
+ 
+ daca ai fi in
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"iubesc da da 
+ jur pe viata mea"
+iubesc da da 
+ jur pe viata mea 
+ ca nas vrea pe altcineva 
+ 
+ spunemi cine pentru tine 
+ a facut nopentruile zile 
+ spunemi cine stii prea bine 
+ numai eu doar pentru tine 
+ 
+ spunemi spunemi cine 
+ pentru pentru tine a facut nopentruile zile 
+ spunemi spunemi cine 
+ ca tu stii prea bine 
+ numai eu doar pentru tine 
+ 
+ spunemi spunemi cine 
+ pentru pentru tine a facut nopentruile zile 
+ spunemi spunemi cine 
+ ca tu stii prea
+----- Diversity:0.5
+----- Generating with seed:
+"iubesc da da 
+ jur pe viata mea"
+iubesc da da 
+ jur pe viata mea 
+ ca nas vrea pe altcineva 
+ 
+ spunemi cine pentru tine 
+ a facut nopentruile zile 
+ spunemi cine stii prea bine 
+ numai eu doar pentru tine 
+ 
+ spunemi spunemi cine 
+ pentru pentru tine a facut nopentruile zile 
+ spunemi spunemi cine 
+ ca tu stii prea bine 
+ numai eu doar pentru tine 
+ 
+ spunemi spunemi cine 
+ pentru pentru tine a facut nopentruile zile 
+ spunemi spunemi cine 
+ ca tu stii prea
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"si ce daca pana acum n-am prea avut"
+si ce daca pana acum n-am prea avut noroc 
+ vreau sa beau ca anii 
+ sa-i dau 
+ 
+ daca ne iubim o zi 
+ si as putea 
+ sa am ca sa te am 
+ am sa te vada tatal meu 
+ ca tu esti viata mea... 
+ tu esti tot ce am mai bun 
+ de ce nu ma mai iubesti 
+ ce mult as vrea sa ma iubesti 
+ nu mai stiu ce sa fac 
+ de ce de ce de ce de ce
+----- Diversity:0.5
+----- Generating with seed:
+"si ce daca pana acum n-am prea avut"
+si ce daca pana acum n-am prea avut noroc 
+ vreau sa beau ca anii 
+ sa-i dau 
+ de la noi de loc 
+ de ce nu mai pot de focul tau 
+ te port in sufletul meu 
+ 
+ esti o iubesc doar pentru tine 
+ tu nu ma lasa sa ma lasi 
+ nu ma lasa de ea 
+ 
+ lumea e mare un vis 
+ de orice azi nu-ti da 
+ 
+ te rog nu te pune 
+ ca te iubesc si te iubesc
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"iau banii dupa mine 
+ de-ar fi cum"
+iau banii dupa mine 
+ de-ar fi cum gandesc dusmanii 
+ m-ar m-ar la lasa la la la la la la la 
+ la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+----- Diversity:0.5
+----- Generating with seed:
+"iau banii dupa mine 
+ de-ar fi cum"
+iau banii dupa mine 
+ de-ar fi cum gandesc dusmanii 
+ m-ar m-ar la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+================================================================================

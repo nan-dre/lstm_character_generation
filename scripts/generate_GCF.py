@@ -76,14 +76,19 @@ def generate_text(model, indices_word, word_indices, seed,
 def main(request=None):
 
     try:
-        seed = request.get_json()['seed']
-    except:
-        seed = "orice s-ar intampla doar tu esti viata mea"
+        json = request.get_json()
+        seed = str(json['seed'])
+        sequence_length = int(json['sequence_length'])
+        diversity = float(json['diversity'])
+        quantity = int(json['quantity'])
+    except Exception as e: 
+        print(e)
+        seed = 'iubire'
+        sequence_length = 8
+        diversity = 0.5
+        quantity = 100
     vocabulary_file = "/tmp/vocabulary.txt"
     model_file = "/tmp/saved_model.h5"
-    sequence_length = 10
-    diversity = 0.5
-    quantity = 60
 
     download_model_file()
     model = load_model(model_file)
