@@ -35,7 +35,6 @@ adus
 afaceri
 afara
 afla
-afro
 ah
 ah,
 ai
@@ -168,10 +167,12 @@ beat
 beau
 belea
 bem
+bembem
 bine
 bine,
 bine.
 bine...
+binebine
 blestem
 blestemat
 blestemata
@@ -180,6 +181,7 @@ boala
 bogat
 bogatie
 boom,
+boom,boom,
 brate
 bratele
 bravo
@@ -187,7 +189,6 @@ brazilianu
 brrr
 bucurie
 bucurii
-bum
 bun
 bun,
 buna
@@ -344,6 +345,7 @@ da...
 daca
 daca-i
 daca-mi
+dada
 dai
 dam
 dami
@@ -563,6 +565,7 @@ genove
 genunchi
 ghiceste
 gia
+giagia
 glas
 gluma
 gol
@@ -709,6 +712,7 @@ iubit
 iubit,
 iubita
 ja
+jaja
 joaca
 joc
 joci
@@ -725,6 +729,8 @@ jurul
 juve
 l-ai
 l-ai,
+l-ai,l-ai,
+l-ail-ai
 l-am
 la
 la,
@@ -732,6 +738,7 @@ la...
 lacrima
 lacrimi
 lacrimile
+lala
 langa
 las
 las,
@@ -752,6 +759,7 @@ legat
 lege
 legenda
 lei
+lele
 lelele
 leu
 liniste
@@ -914,6 +922,7 @@ n-o
 n.
 na
 nai
+nana
 nar
 nas
 nascut
@@ -941,6 +950,7 @@ nicolae
 nimenea
 nimeni
 nimeni,
+nimeni,nimeni,
 nimic
 nimic,
 nimica
@@ -973,10 +983,12 @@ nume
 numele
 numi
 nunta
+nunu
 nuti
 o
 oameni
 oana,
+oana,oana,
 oara
 oare
 oare,
@@ -986,6 +998,7 @@ odata
 of
 of,
 off
+ofof
 oftez
 oh
 oi
@@ -1020,9 +1033,11 @@ palma
 pam
 pamant
 pamant,
+pampam
 pan
 pana
 pana-n
+papa
 para
 parasesc
 parasesti
@@ -1041,6 +1056,7 @@ pat
 pe
 pe-o
 pentru
+pentrupentru
 pentrur
 perna
 pervers
@@ -1092,7 +1108,6 @@ porti
 pot
 pot,
 poti
-potop
 potrivim
 povesti
 poza
@@ -1447,7 +1462,6 @@ tu
 tu,
 tu-mi
 tun
-tzuca,
 u
 uh
 uit
@@ -1506,7 +1520,6 @@ venit
 versuri
 vezi
 vi
-via
 viata
 viata,
 viata-i
